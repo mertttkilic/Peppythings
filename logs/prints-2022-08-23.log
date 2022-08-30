@@ -1,0 +1,5 @@
+17:33:32.794 [TestNG-tests-3] INFO  Resources.base - Ýletiþimlinki duzgun calismaktadir.
+17:33:50.719 [TestNG-tests-1] INFO  Resources.base - Filtreleme islemi duzgun bir sekilde yapilmistir
+17:33:59.278 [TestNG-tests-1] INFO  Resources.base - Gida Button sayim islemi duzgun bir sekilde yapilmistir.
+17:34:01.114 [AsyncHttpClient-1-12] TRACE io.netty.handler.codec.http.websocketx.WebSocket08FrameEncoder - Encoding WebSocket Frame opCode=8 length=26
+17:34:02.626 [TestNG-tests-1] INFO  Resources.base - GucluKadin Button sayim islemi duzgun bir sekilde yapilmistir.

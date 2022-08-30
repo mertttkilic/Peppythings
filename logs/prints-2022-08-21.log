@@ -1,0 +1,5 @@
+12:33:56.695 [TestNG-tests-1] INFO  Resources.base - Gida Button sayim islemi duzgun bir sekilde yapilmistir.
+12:33:59.544 [TestNG-tests-1] INFO  Resources.base - GucluKadin Button sayim islemi duzgun bir sekilde yapilmistir.
+12:34:01.755 [TestNG-tests-1] INFO  Resources.base - Kampanya button sayim islemi duzgun bir sekilde yapilmistir.
+12:34:03.054 [TestNG-tests-4] INFO  Resources.base - Yonlendirilen URL dogrudur.
+12:34:03.093 [TestNG-tests-4] FATAL Resources.base - Adet numarasý dogru degildir

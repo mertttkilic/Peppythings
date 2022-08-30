@@ -1,0 +1,6 @@
+09:26:50.732 [main] INFO  Resources.base - Dogru URL e yonlendirildi
+09:27:14.478 [main] INFO  Resources.base - Filtreleme islemi duzgun bir sekilde yapilmistir
+09:27:28.644 [main] INFO  Resources.base - GucluKadin Button sayim islemi duzgun bir sekilde yapilmistir.
+09:27:31.026 [main] INFO  Resources.base - Kampanya button sayim islemi duzgun bir sekilde yapilmistir.
+09:27:33.455 [main] INFO  Resources.base - Sofra button sayim islemi duzgun bir sekilde yapilmistir.
+09:27:33.483 [AsyncHttpClient-1-4] TRACE io.netty.handler.codec.http.websocketx.WebSocket08FrameEncoder - Encoding WebSocket Frame opCode=8 length=26
