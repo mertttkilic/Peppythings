@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite" parallel ="tests" thread-count="5">
+ 
+  	<listeners>
+  		<listener class-name="Training1.Peppythings.Listener"/>
+ 	</listeners>
+    
+    
+    <test  name="Food Page Test">
+    	<classes>
+      		<class name="Training1.Peppythings.FoodPageTest"/>
+     	</classes>
+     </test>
+      
+     <test  name="Login Test">
+   	 	<classes>
+     		<class name="Training1.Peppythings.LoginTest">  
+     			<methods>
+     				<include name="textileButtonOpentextilePage"/>
+     			</methods>
+     		</class>
+     	</classes>
+     </test>
+       
+    <test  name="Main Page Test">
+    	<classes>
+      		<class name="Training1.Peppythings.MainPageTest"/>
+    	</classes>
+    </test>
+    
+    <test  name="Textile Test ">
+    	<classes>
+     		 <class name="Training1.Peppythings.TextileTest"/>
+   		 </classes>
+    </test> <!-- Test -->
+    
+    <test  name="Smoke Test ">
+    <groups>
+      		<run>
+      			<include name="Smoke"/>
+      		</run>
+      </groups>   
+    </test> 
+    
+  
+</suite> <!-- Suite -->
